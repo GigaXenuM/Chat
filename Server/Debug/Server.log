@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Cat\Desktop\Server\src\main.cpp(137,21): warning C4018: '<': signed/unsigned mismatch
+  Server.vcxproj -> C:\Users\Cat\Desktop\Server\Debug\Server.exe
